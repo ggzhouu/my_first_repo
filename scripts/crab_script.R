@@ -1,3 +1,5 @@
+install.packages("dplyr")
+install.packages("ggplot2")
 library(dplyr)
 library(ggplot2)
 pie_crab <- read.csv("data/HTL-MAR-FiddlerCrabBodySize.csv")
